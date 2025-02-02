@@ -1,0 +1,8 @@
+# Note: have not pinned versions of these packages yet since latest versions work fine.
+black
+datasets
+numpy
+matplotlib
+torch
+transformers
+tqdm
